@@ -1,0 +1,39 @@
+
+            div {
+           border: width 1px black;
+           border-style: solid;
+            }
+            .top-header{
+         font-size: x-large;
+          background-color: black; 
+          color: white;        
+         height: 30px;  
+         text-align: right; 
+        }
+          .header {
+            height: 100px;
+                background-color: lightgreen;
+          }
+          .menu {
+            font-size: x-large;
+            text-align: center;
+            background-color: white;
+            color: black;
+        
+          }
+          .wrapper{
+            width: 1000px;
+            margin: auto;
+          }
+          .content{
+            height: 500px;
+            text-align: center;
+          }
+          .footer{
+            height: 40px;
+            background-color: black;
+            color: white;
+           text-align: center;
+           font-size: larger;
+          }
+        
