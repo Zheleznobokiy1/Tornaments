@@ -13,16 +13,14 @@
         }
           .header {
             height: 100px;
-                background-color: lightgreen;
                 background-image: url(../img/header.jpg);
                 background-size: cover;
           }
-          .menu {
+          .menu  {
             font-size: x-large;
             text-align: center;
-            background-color: white;
-            color: black;
-        
+            background-color:#3F51B5;
+            color: white;
           }
           .wrapper{
             width: 1000px;
@@ -43,4 +41,13 @@
           body{
             background-image:url(../img/background.jpg) ;
             background-size: cover;
+            font-family: 'Open Sans', sans-serif;
           }
+          .menu a:hover{
+          background-color:#5579cb ;
+          }
+          .menu a{
+            color: white;
+            text-decoration: none;
+          }
+          
