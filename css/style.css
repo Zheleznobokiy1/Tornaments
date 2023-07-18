@@ -5,16 +5,16 @@
            border-color: black;
             }
             .top-header{
-         font-size: x-large;
-          background-color: black; 
-          color: white;        
-         height: 30px;  
-         text-align: right; 
+         display: inline block;
+         background-color: black;
+         height: 30px;
+         text-align: right;
         }
           .header {
             height: 100px;
                 background-image: url(../img/header.jpg);
                 background-size: cover;
+                
           }
           .menu  {
             font-size: x-large;
@@ -50,4 +50,6 @@
             color: white;
             text-decoration: none;
           }
-          
+          .top-header img{
+            height: 25px;
+          }
