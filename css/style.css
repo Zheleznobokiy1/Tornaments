@@ -56,3 +56,18 @@
           .top-header img{
             height: 25px;
           }
+          .table1 {
+            background-color: #49423D;
+          }
+          .table2 {
+            background-color: #BBBBBB;
+          }
+          .table3 {
+            text-align: left;
+          }
+          td{
+            padding-top: 2px;
+            padding-bottom: 2px;
+            padding-left: 5px;
+            padding-right: 5px;
+          }
