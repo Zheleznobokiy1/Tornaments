@@ -65,6 +65,7 @@
           .table3 {
             text-align: left;
             position: relative;
+            cursor: help;
           }
 		  .table3 img {
             position: absolute;
